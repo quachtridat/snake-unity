@@ -440,6 +440,9 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+# Unity Collab ignore
+*.collabignore
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
